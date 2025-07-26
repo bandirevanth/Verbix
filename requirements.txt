@@ -1,0 +1,5 @@
+streamlit
+openai-whisper
+torch
+transformers
+accelerate
