@@ -48,11 +48,11 @@ st.sidebar.info(
     """
 )
 st.sidebar.markdown("---")
-st.sidebar.write("Developed by Shresth Jain")
+st.sidebar.write("Developed by Bandi Revanth")
 
 
 # --- Main Application Interface ---
-st.title("🎙️ AI Grammar Scoring Engine")
+st.title("Verbix: AI Grammar Scoring Engine")
 st.markdown(
     "Upload a spoken audio file (`.wav`, `.mp3`) to receive a detailed grammar score and analysis."
 )
